@@ -1,4 +1,4 @@
-# Consumer Fragrance Insights Dashboard  
+# Consumer Fragrance Insights : A Power BI Report
 
 An interactive **Power BI dashboard** that provides deep insights into consumer behavior across **154 fragrances**, highlighting differences between users, buyers, and gifters.  
 
