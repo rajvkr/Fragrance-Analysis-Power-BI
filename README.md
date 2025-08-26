@@ -50,6 +50,6 @@ It allows stakeholders to explore consumer demographics, shopping missions, and 
 
 ## 📸 Dashboard Preview  
 
-*(Insert screenshots or GIFs of the dashboard here)*  
+![Dashboard Preview](images/dashboard.png)
 
 
