@@ -25,7 +25,7 @@ It allows stakeholders to explore consumer demographics, shopping missions, and 
 
 - **R** → Data conversion from `.sav` to `.xlsx`
 - **Excel** → Data Cleaning and filtering to add only relevant data. 
-- **Power BI** → Data modeling (**DAX**), transformation (**Power Query**), and visualization  
+- **Power BI** → Data modeling (**DAX**), transformation (**Power Query**), and Visualization  
 
 ---
 
