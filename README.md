@@ -44,7 +44,9 @@ It allows stakeholders to explore consumer demographics, shopping missions, and 
 
 - Enabled **one-click view** of consumer profiles for 154 fragrances  
 - Simplified **comparison of user vs buyer vs gifter behavior**  
-- Delivered **market insights** for targeted marketing and product positioning  
+- Identified **region-specific underperformance of newly launched fragrances**, highlighting gaps in customer reviews and pricing competitiveness.
+- Enabled data-backed evaluation of launch effectiveness by **comparing new fragrances against established competitors** across regions.
+- Provided actionable insights to inform pricing strategy, review acquisition focus, and regional marketing prioritization.
 
 ---
 
